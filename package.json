@@ -1,0 +1,37 @@
+{
+  "name": "postxml-pack-alanev",
+  "version": "1.0.0",
+  "description": "Postxml plugins pack of the alanev team",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanev/postxml-alanev-pack.git"
+  },
+  "keywords": [
+    "postxml",
+    "pack",
+    "plugins"
+  ],
+  "author": "alanev <e@alanev.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanev/postxml-alanev-pack/issues"
+  },
+  "homepage": "https://github.com/alanev/postxml-alanev-pack#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "postxml": "^0.2.9"
+  },
+  "dependencies": {
+    "postxml-beml": "^0.1.0",
+    "postxml-image-size": "^0.1.2",
+    "postxml-imgalt": "^0.1.1",
+    "postxml-import": "^0.3.5",
+    "postxml-placeholder": "^0.1.2",
+    "postxml-repeat": "^0.2.0",
+    "postxml-wrap": "^0.2.2"
+  }
+}
