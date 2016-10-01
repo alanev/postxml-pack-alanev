@@ -9,5 +9,6 @@ module.exports = [
 		cwd: 'build'
 	}),
 	require('postxml-wrap')(),
-	require('postxml-repeat')()
+	require('postxml-repeat')(),
+	require('postxml-icon')()
 ]

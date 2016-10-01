@@ -23,7 +23,8 @@
   "homepage": "https://github.com/alanev/postxml-alanev-pack#readme",
   "devDependencies": {
     "ava": "^0.16.0",
-    "postxml": "^0.2.9"
+    "postxml": "^0.2.9",
+    "postxml-icon": "^0.1.0"
   },
   "dependencies": {
     "postxml-beml": "^0.1.0",
