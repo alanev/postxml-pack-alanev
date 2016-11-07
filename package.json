@@ -1,6 +1,6 @@
 {
   "name": "postxml-pack-alanev",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Postxml plugins pack of the alanev team",
   "main": "index.js",
   "scripts": {
@@ -27,10 +27,10 @@
   },
   "dependencies": {
     "postxml-beml": "^0.1.0",
-    "postxml-icon": "^0.1.0",
+    "postxml-icon": "^0.2.0",
     "postxml-image-size": "^0.1.2",
     "postxml-imgalt": "^0.1.1",
-    "postxml-import": "^0.3.5",
+    "postxml-import": "^0.4.0",
     "postxml-placeholder": "^0.1.2",
     "postxml-repeat": "^0.2.0",
     "postxml-wrap": "^0.2.2"
